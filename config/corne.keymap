@@ -60,6 +60,11 @@
             bindings = <&kp ENTER>;
             key-positions = <38 39>;
         };
+
+        change {
+            bindings = <&kp LANG_HANGEUL>;
+            key-positions = <29 28>;
+        };
     };
 
     keymap {
